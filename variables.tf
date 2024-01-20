@@ -3,6 +3,6 @@ variable "name" {
   default = ""
 }
 
-variable "tags" {
-  default = ""
-}
+#variable "tags" {
+  #default = ""
+#}
